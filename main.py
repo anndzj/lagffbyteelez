@@ -220,8 +220,8 @@ class FFClient(threading.Thread):
             logging.error(f"Run Error: {e}")
 
 accounts = [
-    {"id": "4322135466", "pass": "BY_PARAHEX-APMHH74IV-REDZED", "ip": "103.108.103.33", "port": 39699},
-    {"id": "4322135387", "pass": "BY_PARAHEX-L6MMP3JOA-REDZED", "ip": "103.108.103.28", "port": 39699}
+    {"id": "4524153605", "pass": "minhvushindzai_VWOWD_BY_SPIDEERIO_GAMING_PU663", "ip": "103.108.103.33", "port": 39699},
+    {"id": "4524153606", "pass": "minhvushindzai_GNCWH_BY_SPIDEERIO_GAMING_0O1UZ", "ip": "103.108.103.28", "port": 39699}
 ]
 
 # --- Flask Routes ---
